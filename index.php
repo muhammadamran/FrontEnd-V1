@@ -3,7 +3,7 @@
 <?php include "include/panel.php"; ?>
 <!-- SLIDER -->
 <section class="hero">
-    <div class="magnifier grd3"></div>
+    <div class="magnifier grd7"></div>
     <div class="container">
         <div class="hero-desc">
             <div class="row">
@@ -15,15 +15,14 @@
                     IPDN</a> <a href="https://html.design" class="btn btn-light"><i class="fa fa-star"></i> Visite Kemendagri</a>
                 </div>
                 <div class="col-md-4 logo-tengah">
-                    <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Lambang_IPDN.png" class="logo-ipdn"> -->
-                    
+
                     <div id="carouselStandar" class="carousel slide" data-ride="carousel">
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo_of_the_Ministry_of_Home_Affairs_of_the_Republic_of_Indonesia.svg/1200px-Logo_of_the_Ministry_of_Home_Affairs_of_the_Republic_of_Indonesia.svg.png" class="d-block w-100 logo-kemendagri" alt="gambar">
+                                <img src="frontend/images/demo-bg-1.png" class="logo-kemendagri" alt="gambar">
                             </div>
                             <div class="carousel-item">
-                                <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Lambang_IPDN.png" class="d-block w-100 logo-ipdn" alt="gambar">
+                                <img src="frontend/images/demo-bg-2.png" class="logo-ipdn" alt="gambar">
                             </div>
                             <!-- <div class="carousel-item">
                                 <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Lambang_IPDN.png" class="d-block w-100" alt="gambar">
@@ -33,14 +32,22 @@
 
                 </div>
             </div>
+
         </div>
     </div>
-    <a href="#first-section" class="bottom-button"><i class="flaticon-mouse"></i></a>
-    <div class="top-message alert grd3">
+    <div class="top-message alert grd7">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <p><strong>Micrology Template</strong> comes with custom homepage sections and content blocks. Build your own website today. <a class="aaclose" href="#" data-dismiss="alert" aria-label="close" title="close">×</a></p>
+                    <center>
+                        <a href="#first-section" class="bottom-button"><i class="flaticon-mouse"></i></a>
+                    </center>
+                </div>
+            </div>
+            <br>
+            <div class="row">
+                <div class="col-md-12">
+                    <p><strong></strong><a class="aaclose" href="#" data-dismiss="alert" aria-label="close" title="close"></a></p>
                 </div>
             </div>
         </div>

@@ -772,11 +772,13 @@ section::after {
 }
 .logo-ipdn {
     width: 100%;
-    height: 350px;
+    height: 100%;
+    align-items: center;
 }
 .logo-kemendagri {
-    width: 250px;
-    height: 350px;
+    width: 100%;
+    height: 100%;
+    align-items: center;
 }
 
 /*********************
