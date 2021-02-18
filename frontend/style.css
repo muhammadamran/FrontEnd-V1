@@ -137,9 +137,9 @@ hr.invis2 {
 }
 
 .transparent-header {
-    background-color: transparent;
+    background-color: #ffffff;
     position: absolute;
-    padding:20px 0;
+    padding:0px 0px;
     z-index: 100;
 }
 
@@ -344,11 +344,13 @@ hr.invis2 {
     width: auto;
     height: auto;
     margin-left: 0.5em;
-    margin-top: -0.3rem;
+    /*margin-top: -0.3rem;*/
     vertical-align: middle;
     content: "\f107";
     border: 0;
     font-family: 'FontAwesome';
+    font-size: 14px;
+    color: #000;
 }
 
 .navbar-toggleable-md .navbar-nav .nav-link {
@@ -1374,6 +1376,7 @@ div.sidewrapper.sidenav {
     padding:0;
     list-style: none;
 }
+
 .foot-link ul li {
     margin-right: 1rem;
     display: inline-block;
@@ -1408,6 +1411,7 @@ div.sidewrapper.sidenav {
     text-align: center;
     cursor: pointer;
     overflow: auto;
+    z-index: 999;
 }
 
 .dmtop:hover,

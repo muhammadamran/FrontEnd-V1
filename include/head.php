@@ -9,8 +9,6 @@
 	<meta name="keywords" content="">
 	<meta name="description" content="">
 	<meta name="author" content="">
-	<link rel="shortcut icon" href="frontend/images/favicon.ico" type="image/x-icon" />
-	<link rel="apple-touch-icon" href="frontend/images/apple-touch-icon.png">
 	<link href="frontend/css/bootstrap.css" rel="stylesheet">
 	<link href="frontend/css/font-awesome.min.css" rel="stylesheet">
 	<link href="frontend/css/all.css" rel="stylesheet">
@@ -20,5 +18,11 @@
 
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 </head>
+<style type="text/css">
+	.logo-header {
+		width: 190px;
+		height: 58px;
+	}
+</style>
 <body>
 	<div id="wrapper">

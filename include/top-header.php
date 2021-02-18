@@ -5,13 +5,13 @@
 			<button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarTopMenu" aria-controls="navbarTopMenu" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon"></span>
 			</button>
-			<a class="navbar-brand" href="index.php">Micrology</a>
+			<a class="navbar-brand" href="index.php"><img src="frontend/images/logo.png" class="logo-header"></a>
 			<div class="collapse navbar-collapse" id="navbarTopMenu">
 				<ul class="navbar-nav mr-auto mt-2 mt-md-0">
-					<li><a class="nav-link" href="index.php">Home</a></li>
-					<li><a class="nav-link" href="index.php">About us</a></li>
+					<li><a class="nav-link" href="index.php"><font style="color: #000; font-size: 13px"><b>Home</b></font></a></li>
+					<li><a class="nav-link" href="index.php"><font style="color: #000; font-size: 13px"><b>About us</b></font></a></li>
 					<li class="nav-item dropdown has-submenu">
-						<a class="nav-link dropdown-toggle" href="#" id="dropdown05" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dropdown</a>
+						<a class="nav-link dropdown-toggle" href="#" id="dropdown05" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><font style="color: #000; font-size: 13px"><b>Dropdown</b></font></a>
 						<ul class="dropdown-menu" aria-labelledby="dropdown05">
 							<li>
 								<a class="dropdown-item" href="#">Sub Dropdown 
@@ -49,7 +49,7 @@
 						</ul>
 					</li>
 					<li class="dropdown yamm-fw nav-item has-submenu">
-						<a class="nav-link dropdown-toggle" href="#" id="dropdown61" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Mega Menu</a>
+						<a class="nav-link dropdown-toggle" href="#" id="dropdown61" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><font style="color: #000; font-size: 13px"><b>Mega Menu</b></font></a>
 						<ul class="dropdown-menu" aria-labelledby="dropdown61">
 							<li>
 								<div class="row">
@@ -107,17 +107,16 @@
 							</li>
 						</ul>
 					</li>
-					<li><a class="nav-link" href="index.php">Contact</a></li>
+					<li><a class="nav-link" href="index.php"><font style="color: #000; font-size: 13px"><b>Contact</b></font></a></li>
 				</ul>
 				<div class="nav navbar-nav ml-auto hidden-md-down hidden-sm-down hidden-xs-down">
 					<div class="head-social">
-						<a href="#" title="Facebook"><i class="fa fa-facebook"></i></a>              
-						<a href="#" title="Twitter"><i class="fa fa-twitter"></i></a>
-						<a href="#" title="Instagram"><i class="fa fa-instagram"></i></a>
+						<a href="#" title="Facebook"><i class="fa fa-facebook" style="color: #000;"></i></a>              
+						<a href="#" title="Twitter"><i class="fa fa-twitter" style="color: #000;"></i></a>
+						<a href="#" title="Instagram"><i class="fa fa-instagram" style="color: #000;"></i></a>
 					</div>
 					<div class="menu-right">
-						<a href="shop-cart.html" title="View Cart"><i class="fa fa-shopping-basket"></i></a>
-						<a id="nav-expander" href="#" title="Open Right Menu"><i class="fa fa-bars"></i></a>
+						<a id="nav-expander" href="#" title="Open Right Menu"><i class="fa fa-bars" style="color: #000;"></i></a>
 					</div>
 				</div>
 			</div>

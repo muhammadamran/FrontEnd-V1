@@ -92,7 +92,8 @@
 
 @media (min-width: 992px) {
     .header .dropdown-menu {
-        margin-top: 13px;
+        /*margin-top: 13px;*/
+        margin-top: 0px;
     }
     .header .navbar-nav .has-submenu {
         position: static;
