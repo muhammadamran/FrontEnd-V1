@@ -127,7 +127,7 @@ hr.invis2 {
 
 .header {
     position: relative;
-    top:0;
+    /*top:0;*/
     left: 0;
     width: 100%;
     display: block;
@@ -771,6 +771,7 @@ section::after {
 
 .logo-tengah {
     text-align: center;
+    height: 355px;
 }
 .logo-ipdn {
     width: 100%;
@@ -957,6 +958,15 @@ section::after {
     padding: 0.9rem 2.5rem;
     font-size: 0.875rem !important;
     line-height: 1 !important
+}
+
+.bottom-button-mouse {
+    color:#ffffff;
+    left: 49%;
+    /*right: 50%;*/
+    font-size: 24px;
+    bottom:10px;
+    position: absolute;
 }
 
 .bottom-button {

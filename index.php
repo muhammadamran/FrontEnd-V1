@@ -15,7 +15,6 @@
                     IPDN</a> <a href="https://html.design" class="btn btn-light"><i class="fa fa-star"></i> Visite Kemendagri</a>
                 </div>
                 <div class="col-md-4 logo-tengah">
-
                     <div id="carouselStandar" class="carousel slide" data-ride="carousel">
                         <div class="carousel-inner">
                             <div class="carousel-item active">
@@ -29,25 +28,18 @@
                             </div> -->
                         </div>
                     </div>
-
                 </div>
             </div>
-
         </div>
     </div>
-    <div class="top-message alert grd7">
+    <center>
+        <a href="#first-section" class="bottom-button-mouse"><i class="flaticon-mouse"></i></a>
+    </center>
+    <div class="top-message alert grd5">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <center>
-                        <a href="#first-section" class="bottom-button"><i class="flaticon-mouse"></i></a>
-                    </center>
-                </div>
-            </div>
-            <br>
-            <div class="row">
-                <div class="col-md-12">
-                    <p><strong></strong><a class="aaclose" href="#" data-dismiss="alert" aria-label="close" title="close"></a></p>
+                    <p><strong>Micrology Template</strong> comes with custom homepage sections and content blocks. Build your own website today. <a class="aaclose" href="#" data-dismiss="alert" aria-label="close" title="close">×</a></p>
                 </div>
             </div>
         </div>

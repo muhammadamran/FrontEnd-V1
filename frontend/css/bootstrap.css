@@ -3972,7 +3972,8 @@ tbody.collapse.show {
   padding: 0.25rem 0.75rem;
   font-size: 1.25rem;
   line-height: 1;
-  background: transparent;
+  /*background: transparent;*/
+  background: #ffae19 none repeat scroll 0 0;
   border: 1px solid transparent;
   border-radius: 0.25rem;
 }
@@ -4358,7 +4359,7 @@ tbody.collapse.show {
 
 .navbar-inverse .navbar-brand,
 .navbar-inverse .navbar-toggler {
-  color: white;
+  color: #ffae19;
 }
 
 .navbar-inverse .navbar-brand:focus, .navbar-inverse .navbar-brand:hover,
@@ -4387,11 +4388,9 @@ tbody.collapse.show {
 }
 
 .navbar-inverse .navbar-toggler {
-  border-color: rgba(255, 255, 255, 0.1);
-}
-
-.navbar-inverse .navbar-toggler-icon {
-  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255, 255, 255, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+  /*border-color: rgba(255, 255, 255, 0.1);*/
+  border-color: #ffae19;
+  top: 25px;
 }
 
 .navbar-inverse .navbar-text {

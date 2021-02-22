@@ -21,7 +21,8 @@
         padding:4rem 0;
     }
     .transparent-header {
-        background-color: #090c1e !important;
+        /*background-color: #090c1e !important;*/
+        background-color: #fff;
         padding: 10px 10px !important;
         position: relative !important;
     }

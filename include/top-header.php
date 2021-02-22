@@ -1,3 +1,44 @@
+<!-- TOPNAVBAR -->
+<style>
+	.topnav {
+		overflow: hidden;
+		/*background-color: #333;*/
+		position: center;
+		line-height:0.5em;
+		/*padding: 0px 0px 0px 535px;*/
+		text-align: center;
+	}
+
+	.topnav a {
+		float: left;
+		color: #f2f2f2;
+		text-align: center;
+		padding: 14px 16px;
+		text-decoration: none;
+		font-size: 12px;
+		position: center;
+	}
+
+	.topnav a:hover {
+		background-color: #ddd;
+		color: black;
+	}
+
+	.topnav a.active {
+		background-color: #4CAF50;
+		color: white;
+	}
+</style>
+<!-- <div class="container grd3">
+	<center>
+		<div class="topnav">
+			<a href="#home">(021) 123456789</a>
+			<a href="#news">cs.ipdn@ipdn.id</a>
+			<a href="#contact">Jl. Raya Bandung-Sumedang Km. 20 Jatinangor, Sumedang 45363</a>
+		</div>
+	</center>
+</div> -->
+<!-- END TOPNAVBAR -->
 <!-- HEADER -->
 <header class="header transparent-header">
 	<div class="container">
@@ -8,10 +49,15 @@
 			<a class="navbar-brand" href="index.php"><img src="frontend/images/logo.png" class="logo-header"></a>
 			<div class="collapse navbar-collapse" id="navbarTopMenu">
 				<ul class="navbar-nav mr-auto mt-2 mt-md-0">
-					<li><a class="nav-link" href="index.php"><font style="color: #000; font-size: 13px"><b>Home</b></font></a></li>
-					<li><a class="nav-link" href="index.php"><font style="color: #000; font-size: 13px"><b>About us</b></font></a></li>
+					<li>
+						<a class="nav-link" href="index.php">
+							<font style="color: #000; font-size: 13px"><b>About us</b></font>
+						</a>
+					</li>
 					<li class="nav-item dropdown has-submenu">
-						<a class="nav-link dropdown-toggle" href="#" id="dropdown05" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><font style="color: #000; font-size: 13px"><b>Dropdown</b></font></a>
+						<a class="nav-link dropdown-toggle" href="#" id="dropdown05" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+							<font style="color: #000; font-size: 13px"><b>Dropdown</b></font>
+						</a>
 						<ul class="dropdown-menu" aria-labelledby="dropdown05">
 							<li>
 								<a class="dropdown-item" href="#">Sub Dropdown 
@@ -49,7 +95,9 @@
 						</ul>
 					</li>
 					<li class="dropdown yamm-fw nav-item has-submenu">
-						<a class="nav-link dropdown-toggle" href="#" id="dropdown61" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><font style="color: #000; font-size: 13px"><b>Mega Menu</b></font></a>
+						<a class="nav-link dropdown-toggle" href="#" id="dropdown61" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+							<font style="color: #000; font-size: 13px"><b>Mega Menu</b></font>
+						</a>
 						<ul class="dropdown-menu" aria-labelledby="dropdown61">
 							<li>
 								<div class="row">
@@ -107,20 +155,26 @@
 							</li>
 						</ul>
 					</li>
-					<li><a class="nav-link" href="index.php"><font style="color: #000; font-size: 13px"><b>Contact</b></font></a></li>
+					<li>
+						<a class="nav-link" href="index.php">
+							<font style="color: #000; font-size: 13px"><b>Contact</b></font>
+						</a>
+					</li>
 				</ul>
 				<div class="nav navbar-nav ml-auto hidden-md-down hidden-sm-down hidden-xs-down">
 					<div class="head-social">
-						<a href="#" title="Facebook"><i class="fa fa-facebook" style="color: #000;"></i></a>              
+						<a href="#" title="Facebook"><i class="fa fa-facebook" style="color: #000;"></i></a>
 						<a href="#" title="Twitter"><i class="fa fa-twitter" style="color: #000;"></i></a>
 						<a href="#" title="Instagram"><i class="fa fa-instagram" style="color: #000;"></i></a>
 					</div>
 					<div class="menu-right">
-						<a id="nav-expander" href="#" title="Open Right Menu"><i class="fa fa-bars" style="color: #000;"></i></a>
+						<a id="nav-expander" href="#" title="Open Right Menu">
+							<i class="fa fa-bars" style="color: #000;"></i>
+						</a>
 					</div>
 				</div>
 			</div>
 		</nav>
 	</div>
 </header>
-<!-- END HEADER -->
+<!-- END HEADER

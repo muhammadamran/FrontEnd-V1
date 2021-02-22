@@ -16,12 +16,16 @@
 	<link href="frontend/css/responsive.css" rel="stylesheet">
 	<link href="frontend/css/colors.css" rel="stylesheet">
 
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+	<!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script> -->
 </head>
 <style type="text/css">
 	.logo-header {
 		width: 190px;
 		height: 58px;
+	}
+	.navbar-inverse .navbar-toggler-icon {
+		/*background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255, 255, 255, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");*/
+		background-image: url('frontend/images/icons/menu.png');
 	}
 </style>
 <body>
