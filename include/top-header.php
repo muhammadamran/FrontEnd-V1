@@ -51,7 +51,7 @@
 				<ul class="navbar-nav mr-auto mt-2 mt-md-0">
 					<li>
 						<a class="nav-link" href="index.php">
-							<font style="color: #000; font-size: 13px"><b>About us</b></font>
+							<font style="color: #000; font-size: 13px"><b>Home</b></font>
 						</a>
 					</li>
 					<li class="nav-item dropdown has-submenu">
@@ -67,10 +67,6 @@
 								</a>
 								<ul class="dropdown-menu">
 									<li><a class="dropdown-item" href="#">Sub Dropdown Item</a></li>
-									<li><a class="dropdown-item" href="#">Sub Dropdown Item</a></li>
-									<li><a class="dropdown-item" href="#">Sub Dropdown Item</a></li>
-									<li><a class="dropdown-item" href="#">Sub Dropdown Item</a></li>
-									<li><a class="dropdown-item" href="#">Sub Dropdown Item</a></li>
 								</ul>
 							</li>
 							<li>
@@ -81,16 +77,8 @@
 								</a>
 								<ul class="dropdown-menu">
 									<li><a class="dropdown-item" href="#">Sub Dropdown Item</a></li>
-									<li><a class="dropdown-item" href="#">Sub Dropdown Item</a></li>
-									<li><a class="dropdown-item" href="#">Sub Dropdown Item</a></li>
-									<li><a class="dropdown-item" href="#">Sub Dropdown Item</a></li>
-									<li><a class="dropdown-item" href="#">Sub Dropdown Item</a></li>
 								</ul>
 							</li>
-							<li><a class="dropdown-item" href="#">Dropdown Item</a></li>
-							<li><a class="dropdown-item" href="#">Dropdown Item</a></li>
-							<li><a class="dropdown-item" href="#">Dropdown Item</a></li>
-							<li><a class="dropdown-item" href="#">Dropdown Item</a></li>
 							<li><a class="dropdown-item" href="#">Dropdown Item</a></li>
 						</ul>
 					</li>
@@ -106,18 +94,6 @@
 											<h4>First column</h4>
 											<ol>
 												<li><a href="#">Mega Menu Item</a></li>
-												<li><a href="#">Mega Menu Item</a></li>
-												<li><a href="#">Mega Menu Item</a></li>
-												<li><a href="#">Mega Menu Item</a></li>
-												<li><a href="#">Mega Menu Item</a></li>
-												<li><a href="#">Mega Menu Item</a></li>
-												<li><a href="#">Mega Menu Item</a></li>
-												<li><a href="#">Mega Menu Item</a></li>
-												<li><a href="#">Mega Menu Item</a></li>
-												<li><a href="#">Mega Menu Item</a></li>
-												<li><a href="#">Mega Menu Item</a></li>
-												<li><a href="#">Mega Menu Item</a></li>
-												<li><a href="#">Mega Menu Item</a></li>
 											</ol>
 										</div>
 									</div>
@@ -125,18 +101,6 @@
 										<div class="mega-menu-items">
 											<h4>Second Block</h4>
 											<ol>
-												<li><a href="#">Mega Menu Item</a></li>
-												<li><a href="#">Mega Menu Item</a></li>
-												<li><a href="#">Mega Menu Item</a></li>
-												<li><a href="#">Mega Menu Item</a></li>
-												<li><a href="#">Mega Menu Item</a></li>
-												<li><a href="#">Mega Menu Item</a></li>
-												<li><a href="#">Mega Menu Item</a></li>
-												<li><a href="#">Mega Menu Item</a></li>
-												<li><a href="#">Mega Menu Item</a></li>
-												<li><a href="#">Mega Menu Item</a></li>
-												<li><a href="#">Mega Menu Item</a></li>
-												<li><a href="#">Mega Menu Item</a></li>
 												<li><a href="#">Mega Menu Item</a></li>
 											</ol>
 										</div>
@@ -154,11 +118,6 @@
 								</div>
 							</li>
 						</ul>
-					</li>
-					<li>
-						<a class="nav-link" href="index.php">
-							<font style="color: #000; font-size: 13px"><b>Contact</b></font>
-						</a>
 					</li>
 				</ul>
 				<div class="nav navbar-nav ml-auto hidden-md-down hidden-sm-down hidden-xs-down">
