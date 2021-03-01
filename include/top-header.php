@@ -119,21 +119,63 @@
 							</li>
 						</ul>
 					</li>
+					<li class="dropdown yamm-fw nav-item has-submenu">
+						<a class="nav-link dropdown-toggle" href="#" id="dropdown61" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+							<font style="color: #000; font-size: 13px"><b>Mega Menu 2</b></font>
+						</a>
+						<ul class="dropdown-menu" aria-labelledby="dropdown61">
+							<li>
+								<div class="row">
+									<div class="col-lg-3 col-md-6 col-sm-12 col-xs-12">
+										<div class="mega-menu-items">
+											<h4>First column</h4>
+											<ol>
+												<li><a href="#">Mega Menu Item</a></li>
+											</ol>
+										</div>
+									</div>
+									<div class="col-lg-3 col-md-6 col-sm-12 col-xs-12">
+										<div class="mega-menu-items">
+											<h4>Second Block</h4>
+											<ol>
+												<li><a href="#">Mega Menu Item</a></li>
+											</ol>
+										</div>
+									</div>
+									<div class="col-lg-6 hidden-md-down hidden-sm-down hidden-xs-down">
+										<div class="menu-image">
+											<img src="frontend/upload/menu-banner_01.jpg" alt="" class="img-fluid">
+											<div class="menu-details">
+												<p class="bolder">Build Your Own</p>
+												<p>The Micrology comes with mega menu section<br> and HTML blocks.</p>
+												<a href="#" class="btn btn-orange btn-sm withradius secbtn">Did you like?</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</li>
+						</ul>
+					</li>
 				</ul>
 				<div class="nav navbar-nav ml-auto hidden-md-down hidden-sm-down hidden-xs-down">
-					<div class="head-social">
+					<!-- <div class="head-social">
 						<a href="#" title="Facebook"><i class="fa fa-facebook" style="color: #000;"></i></a>
 						<a href="#" title="Twitter"><i class="fa fa-twitter" style="color: #000;"></i></a>
 						<a href="#" title="Instagram"><i class="fa fa-instagram" style="color: #000;"></i></a>
-					</div>
+					</div> -->
 					<div class="menu-right">
-						<a id="nav-expander" href="#" title="Open Right Menu">
-							<i class="fa fa-bars" style="color: #000;"></i>
+						<a id="nav-expander" href="#" class="btn btn-primary btn-sm withradius secbtn withicon" title="Open Right Menu">
+							<span class="fa fa-rocket"></span> 
+							53 
+							<i class="fa fa-long-arrow-right"></i>
 						</a>
+						<!-- <a id="nav-expander" href="#" title="Open Right Menu">
+							<i class="fa fa-bars" style="color: #000;"></i>
+						</a> -->
 					</div>
 				</div>
 			</div>
 		</nav>
 	</div>
 </header>
-<!-- END HEADER
+<!-- END HEADER -->

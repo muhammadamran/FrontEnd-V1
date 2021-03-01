@@ -7522,7 +7522,7 @@ a.bg-inverse:focus, a.bg-inverse:hover {
 }
 
 .mt-2 {
-  margin-top: 0.5rem !important;
+  margin-top: 0.3rem !important;
 }
 
 .mr-2 {
@@ -8154,7 +8154,7 @@ a.bg-inverse:focus, a.bg-inverse:hover {
     margin: 0 0 !important;
   }
   .mt-md-0 {
-    margin-top: 0 !important;
+    /*margin-top: 0 !important;*/
   }
   .mr-md-0 {
     margin-right: 0 !important;

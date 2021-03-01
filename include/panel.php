@@ -3,10 +3,10 @@
 	<div class="text-right"><a href="#" id="nav-close"><i class="flaticon-multiply"></i></a></div>
 	<div class="widget">
 		<div class="widget-title-sidebar">
-			<h3><span><i class="fa fa-instagram"></i> Follow Us</span></h3>
+			<h3><span><i class="fa fa-rocket"></i> 53 Aplikasi Terintegrasi</span></h3>
 		</div>
 		<div class="instagram-widget text-center">
-			<p>This is a custom widget area, you can add anything here. An example Instagram widget area.</p>
+			<p>Smart Campus Database | IPDN.</p>
 			<div class="image-area clearfix">
 				<a href="#"><img src="frontend/upload/insta_01.jpg" alt="" class="img-fluid"></a>
 				<a href="#"><img src="frontend/upload/insta_02.jpg" alt="" class="img-fluid"></a>
@@ -22,7 +22,7 @@
 		</div>
 	</div>
 	<div class="footer-copy text-center">
-		<p>Thanks for using <a href="http://html.design">HTML Design</a> website templates</p>
+		<p>Kementrian Dalam Negeri Republik Indonesia <br>Institut Pemerintahan Dalam Negeri <br> Copyright &copy; <?= date('Y');?></p>
 	</div>
 </div>
 <!-- END RIGHT PANEL -->

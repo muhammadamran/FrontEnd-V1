@@ -39,7 +39,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <p><strong>Micrology Template</strong> comes with custom homepage sections and content blocks. Build your own website today. <a class="aaclose" href="#" data-dismiss="alert" aria-label="close" title="close">×</a></p>
+                    <p><strong>Smart Campus Database:</strong> Selamat Datang di Sistem Informasi Smart Campus Database IPDN. <a class="aaclose" href="#" data-dismiss="alert" aria-label="close" title="close">×</a></p>
                 </div>
             </div>
         </div>
@@ -47,12 +47,28 @@
 </section>
 <!-- SLIDER -->
 
+<!-- LANDING 6 -->
+<section class="section big-title-area parallax-off" style="background-image: url(frontend/upload/parallax_01.jpg);">
+    <div class="container">
+        <div class="parallax-desc text-center">
+            <div class="row align-items-center">
+                <div class="col-md-8 offset-md-2">
+                    <h2>Watch the video & learn why Micrology ideal solution for you</h2>
+                    <p class="lead"> Who says customization has to be complicated? Choose from more than 250+ components that are beautifully designed and ready to use. </p>
+                    <a href="//www.youtube.com/watch?v=3TC38Ao8h8o" data-lity class="playbutton"><i class="fa fa-play"></i> <small>Micrology Offical Video on Youtube</small></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- END LANDING 6 -->
+
 <!-- LANDING 1 -->
 <section class="section">
     <div class="container">
         <div class="section-title cpurple text-left">
-            <h4>Find inspiration for your project</h4>
-            <h2>Everyday, our team of experts hand picks the best new web designs from all over the world.</h2>
+            <h4>Smart Campus Database</h4>
+            <h2>Mengapa menggunakan Smart Campus Database?</h2>
         </div>
         <div class="row">
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
@@ -99,6 +115,144 @@
     </div>
 </section>
 <!-- END LANDING 1 -->
+
+<!-- LANDING 8 -->
+<section class="section big-title-area parallax-off" style="background-image: url(frontend/upload/parallax_02.jpg);">
+    <div class="container">
+        <div class="parallax-desc text-center">
+            <div class="row align-items-center">
+                <div class="col-md-8 offset-md-2">
+                    <h2>We Can Change Life With Together!</h2>
+                    <p class="lead"> Who says customization has to be complicated? Choose from more than 250+ components that are beautifully designed and ready to use. </p>
+                    <a href="#" data-lity class="followbutton"><i class="fa fa-instagram grd4"></i> <small>Join 25.000+ Community Members</small></a>
+                </div>
+            </div>
+            <hr class="invis1">
+            <div class="instagram-widget-large clearfix">
+                <div class="insta-box">
+                    <a href="#">
+                        <div class="magnifier">
+                            <i class="fa fa-instagram"></i>
+                        </div>
+                        <img src="frontend/upload/insta_01.jpg" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="insta-box">
+                    <a href="#">
+                        <div class="magnifier">
+                            <i class="fa fa-instagram"></i>
+                        </div>
+                        <img src="frontend/upload/insta_02.jpg" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="insta-box">
+                    <a href="#">
+                        <div class="magnifier">
+                            <i class="fa fa-instagram"></i>
+                        </div>
+                        <img src="frontend/upload/insta_03.jpg" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="insta-box">
+                    <a href="#">
+                        <div class="magnifier">
+                            <i class="fa fa-instagram"></i>
+                        </div>
+                        <img src="frontend/upload/insta_04.jpg" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="insta-box">
+                    <a href="#">
+                        <div class="magnifier">
+                            <i class="fa fa-instagram"></i>
+                        </div>
+                        <img src="frontend/upload/insta_05.jpg" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="insta-box">
+                    <a href="#">
+                        <div class="magnifier">
+                            <i class="fa fa-instagram"></i>
+                        </div>
+                        <img src="frontend/upload/insta_06.jpg" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="insta-box">
+                    <a href="#">
+                        <div class="magnifier">
+                            <i class="fa fa-instagram"></i>
+                        </div>
+                        <img src="frontend/upload/insta_07.jpg" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="insta-box">
+                    <a href="#">
+                        <div class="magnifier">
+                            <i class="fa fa-instagram"></i>
+                        </div>
+                        <img src="frontend/upload/insta_08.jpg" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="insta-box">
+                    <a href="#">
+                        <div class="magnifier">
+                            <i class="fa fa-instagram"></i>
+                        </div>
+                        <img src="frontend/upload/insta_09.jpg" alt="" class="img-fluid">
+                    </a>
+                </div>
+                <div class="insta-box">
+                    <a href="#">
+                        <div class="magnifier">
+                            <i class="fa fa-instagram"></i>
+                        </div>
+                        <img src="frontend/upload/insta_10.jpg" alt="" class="img-fluid">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-10 offset-md-1">
+                <div class="message-box grd4 absolute-widget text-center lightcolor">
+                    <h3>Daily web graphic design inspirations</h3>
+                    <p>We have profitable projects that will interest you if you are an employer or a professional freelancer web designers!</p>
+                    <a href="#" class="btn btn-transparent">Opened Jobs</a>
+                </div>
+            </div>
+        </div>
+        <hr class="invis2">
+        <div class="section-title text-center">
+            <h4>Testimonials</h4>
+            <h2>What Other's Say About Micrology</h2>
+        </div>
+        <div class="row">
+            <div class="col-md-10 offset-md-1">
+                <div id="testimonial_01" class="owl-carousel owl-theme owl-style-01">
+                    <div class="testi-style-01 clearfix">    
+                        <img src="frontend/upload/team_01.jpg" alt="" class="img-fluid rounded-circle float-left">
+                        <h4>Amanda Johnson <small>Nebudebu.com <a href="#" title="visit website"><i class="fa fa-link"></i></a></small></h4>
+                        <p>Thanks to the independent blocks, I created my own web site in minutes with the Micrology template.</p>
+                    </div>
+                    <div class="testi-style-01 clearfix">    
+                        <img src="frontend/upload/team_02.jpg" alt="" class="img-fluid rounded-circle float-left">
+                        <h4>Jonny Anderson <small>Kimbukila.com <a href="#" title="visit website"><i class="fa fa-link"></i></a></small></h4>
+                        <p>Just wanted to say thanks for the great item. I’ve recently expanded from HTML to HTML5 and am using your Micrology. </p>
+                    </div>
+                    <div class="testi-style-01 clearfix">    
+                        <img src="frontend/upload/team_03.jpg" alt="" class="img-fluid rounded-circle float-left">
+                        <h4>Martin Donson <small>html.design <a href="#" title="visit website"><i class="fa fa-link"></i></a></small></h4>
+                        <p>Micrology is the best template I’ve ever bought! HTML.Design has the best support over the net! Keep it up!</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- END LANDING 8 -->
 
 <!-- LANDING 2 -->
 <section id="first-section" class="section lb">
@@ -361,22 +515,6 @@
 </section>
 <!-- END LANDING 5 -->
 
-<!-- LANDING 6 -->
-<section class="section big-title-area parallax-off" style="background-image: url(frontend/upload/parallax_01.jpg);">
-    <div class="container">
-        <div class="parallax-desc text-center">
-            <div class="row align-items-center">
-                <div class="col-md-8 offset-md-2">
-                    <h2>Watch the video & learn why Micrology ideal solution for you</h2>
-                    <p class="lead"> Who says customization has to be complicated? Choose from more than 250+ components that are beautifully designed and ready to use. </p>
-                    <a href="//www.youtube.com/watch?v=3TC38Ao8h8o" data-lity class="playbutton"><i class="fa fa-play"></i> <small>Micrology Offical Video on Youtube</small></a>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- END LANDING 6 -->
-
 <!-- LANDING 7 -->
 <section class="section">
     <div class="container">
@@ -397,147 +535,6 @@
     </div>
 </section>
 <!-- END LANDING 7 -->
-
-<!-- LANDING 8 -->
-<section class="section big-title-area parallax-off" style="background-image: url(frontend/upload/parallax_02.jpg);">
-    <div class="container">
-        <div class="parallax-desc text-center">
-            <div class="row align-items-center">
-                <div class="col-md-8 offset-md-2">
-                    <h2>We Can Change Life With Together!</h2>
-                    <p class="lead"> Who says customization has to be complicated? Choose from more than 250+ components that are beautifully designed and ready to use. </p>
-                    <a href="#" data-lity class="followbutton"><i class="fa fa-instagram grd4"></i> <small>Join 25.000+ Community Members</small></a>
-                </div>
-            </div>
-            <hr class="invis1">
-            <div class="instagram-widget-large clearfix">
-                <div class="insta-box">
-                    <a href="#">
-                        <div class="magnifier">
-                            <i class="fa fa-instagram"></i>
-                        </div>
-                        <img src="frontend/upload/insta_01.jpg" alt="" class="img-fluid">
-                    </a>
-                </div>
-                <div class="insta-box">
-                    <a href="#">
-                        <div class="magnifier">
-                            <i class="fa fa-instagram"></i>
-                        </div>
-                        <img src="frontend/upload/insta_02.jpg" alt="" class="img-fluid">
-                    </a>
-                </div>
-                <div class="insta-box">
-                    <a href="#">
-                        <div class="magnifier">
-                            <i class="fa fa-instagram"></i>
-                        </div>
-                        <img src="frontend/upload/insta_03.jpg" alt="" class="img-fluid">
-                    </a>
-                </div>
-                <div class="insta-box">
-                    <a href="#">
-                        <div class="magnifier">
-                            <i class="fa fa-instagram"></i>
-                        </div>
-                        <img src="frontend/upload/insta_04.jpg" alt="" class="img-fluid">
-                    </a>
-                </div>
-                <div class="insta-box">
-                    <a href="#">
-                        <div class="magnifier">
-                            <i class="fa fa-instagram"></i>
-                        </div>
-                        <img src="frontend/upload/insta_05.jpg" alt="" class="img-fluid">
-                    </a>
-                </div>
-                <div class="insta-box">
-                    <a href="#">
-                        <div class="magnifier">
-                            <i class="fa fa-instagram"></i>
-                        </div>
-                        <img src="frontend/upload/insta_06.jpg" alt="" class="img-fluid">
-                    </a>
-                </div>
-                <div class="insta-box">
-                    <a href="#">
-                        <div class="magnifier">
-                            <i class="fa fa-instagram"></i>
-                        </div>
-                        <img src="frontend/upload/insta_07.jpg" alt="" class="img-fluid">
-                    </a>
-                </div>
-                <div class="insta-box">
-                    <a href="#">
-                        <div class="magnifier">
-                            <i class="fa fa-instagram"></i>
-                        </div>
-                        <img src="frontend/upload/insta_08.jpg" alt="" class="img-fluid">
-                    </a>
-                </div>
-                <div class="insta-box">
-                    <a href="#">
-                        <div class="magnifier">
-                            <i class="fa fa-instagram"></i>
-                        </div>
-                        <img src="frontend/upload/insta_09.jpg" alt="" class="img-fluid">
-                    </a>
-                </div>
-                <div class="insta-box">
-                    <a href="#">
-                        <div class="magnifier">
-                            <i class="fa fa-instagram"></i>
-                        </div>
-                        <img src="frontend/upload/insta_10.jpg" alt="" class="img-fluid">
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- END LANDING 8 -->
-
-<!-- LANDING 9 -->
-<section class="section">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-10 offset-md-1">
-                <div class="message-box grd4 absolute-widget text-center lightcolor">
-                    <h3>Daily web graphic design inspirations</h3>
-                    <p>We have profitable projects that will interest you if you are an employer or a professional freelancer web designers!</p>
-                    <a href="#" class="btn btn-transparent">Opened Jobs</a>
-                </div>
-            </div>
-        </div>
-        <hr class="invis2">
-        <div class="section-title text-center">
-            <h4>Testimonials</h4>
-            <h2>What Other's Say About Micrology</h2>
-        </div>
-        <div class="row">
-            <div class="col-md-10 offset-md-1">
-                <div id="testimonial_01" class="owl-carousel owl-theme owl-style-01">
-                    <div class="testi-style-01 clearfix">    
-                        <img src="frontend/upload/team_01.jpg" alt="" class="img-fluid rounded-circle float-left">
-                        <h4>Amanda Johnson <small>Nebudebu.com <a href="#" title="visit website"><i class="fa fa-link"></i></a></small></h4>
-                        <p>Thanks to the independent blocks, I created my own web site in minutes with the Micrology template.</p>
-                    </div>
-                    <div class="testi-style-01 clearfix">    
-                        <img src="frontend/upload/team_02.jpg" alt="" class="img-fluid rounded-circle float-left">
-                        <h4>Jonny Anderson <small>Kimbukila.com <a href="#" title="visit website"><i class="fa fa-link"></i></a></small></h4>
-                        <p>Just wanted to say thanks for the great item. I’ve recently expanded from HTML to HTML5 and am using your Micrology. </p>
-                    </div>
-                    <div class="testi-style-01 clearfix">    
-                        <img src="frontend/upload/team_03.jpg" alt="" class="img-fluid rounded-circle float-left">
-                        <h4>Martin Donson <small>html.design <a href="#" title="visit website"><i class="fa fa-link"></i></a></small></h4>
-                        <p>Micrology is the best template I’ve ever bought! HTML.Design has the best support over the net! Keep it up!</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- END LANDING 9 -->
 
 <!-- CLIENT LOGO -->
 <div class="section bt littlepad">
